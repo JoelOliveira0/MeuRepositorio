@@ -1,0 +1,22 @@
+Comnado "dir"
+\\listagem de diretorios
+Comando "cd"
+\\leva para um diretorio especifico
+Comando "cd.."
+\\para voltar 1 nivel
+Comando "cls"
+\\limpar o terminal
+///Quando for digitar o nome de um diretorio
+é possivel usar a tecla TAB para completar o
+nome após a primeira letra do diretorio
+Comando "mkdir" 
+\\Criar uma pasta
+Comando "echo"
+\\Escreve o que você digitou
+Comando "del"
+\\deletar
+Comando "rmdir" "/S /Q /"
+\\Apagar repositorios
+comando "openssl sha1"
+Comando "ls -a" 
+\\mostra as pastas ocultas 

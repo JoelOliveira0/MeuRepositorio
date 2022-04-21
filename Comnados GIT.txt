@@ -1,0 +1,15 @@
+git init
+git add
+git commit
+\\primeira vez no git vai ter que fornecer
+o email e o usuario
+Comando
+git config --global user.email "O email"
+git config --global user.name (escrever o nome)
+git commit "menssagem"
+git status
+rm remove
+git add * 
+\\adicona todas as alteraçoes ao stage
+ git remote add origin 
+\\adiciona ao server do git hub 
